@@ -1,0 +1,30 @@
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+      font-family: lato;
+
+    }
+.bg-1{
+	background: url('https://images.unsplash.com/photo-1497956974293-97920f88caf0?auto=format&fit=crop&w=889&q=80');
+	background-size: cover;
+	background-position:center;
+	font-family: lato;
+	color: white;
+	padding: 25px;
+}
+
+  .bg-2 { 
+      background-color: #474e5d; /* Dark Blue */
+      color: white;
+      padding: 25px;
+      font-family: lato;
+      font-size: 20px;
+
+  }
+
+  .bg-3{
+  	padding: 25px;
+  	font-family: lato;
+  	font-size: 100px;
+  }
+

@@ -1,0 +1,53 @@
+
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+      font-family: lato;
+    }
+
+.jumbotron{
+	background: url('https://images.unsplash.com/photo-1510511498717-4326639c999c?auto=format&fit=crop&w=750&q=80');
+	background-size: cover;
+	background-position:center;
+	font-family: lato;
+	color: white;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}    
+
+body{
+	background: #D3CCE3;  /* fallback for old browsers */
+background: #ADA996;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.note{
+	font-style: italic;
+}
+
+    
+footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+	}
+	
+.description-button a{
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px 15px;
+    background: 0 0;
+    border: 2px solid #00b7c7;
+    border-radius: 3px;
+    margin: 10px;
+    color: #00b7c7;
+    font-family: Gotham,Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    transition: all .3s ease;
+}
+
+
+
